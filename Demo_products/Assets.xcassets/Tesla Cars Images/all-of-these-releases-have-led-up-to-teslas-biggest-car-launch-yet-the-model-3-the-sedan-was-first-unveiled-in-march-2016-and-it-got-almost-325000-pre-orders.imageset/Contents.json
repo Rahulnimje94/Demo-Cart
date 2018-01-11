@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "all-of-these-releases-have-led-up-to-teslas-biggest-car-launch-yet-the-model-3-the-sedan-was-first-unveiled-in-march-2016-and-it-got-almost-325000-pre-orders.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
