@@ -39,6 +39,7 @@
 /* Begin PBXFileReference section */
 		0BE7B2295A37F8990653F519 /* Pods-Demo_productsUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Demo_productsUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Demo_productsUITests/Pods-Demo_productsUITests.release.xcconfig"; sourceTree = "<group>"; };
 		12A058E13B2FBD7352A3B67F /* Pods_Demo_products.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Demo_products.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		17AB03612007D1BF00074BBE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		17FC92AF200291560001C39C /* Demo_products.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo_products.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17FC92B2200291560001C39C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		17FC92B4200291560001C39C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -92,6 +93,7 @@
 		17FC92A6200291560001C39C = {
 			isa = PBXGroup;
 			children = (
+				17AB03612007D1BF00074BBE /* README.md */,
 				17FC92B1200291560001C39C /* Demo_products */,
 				17FC92C6200291560001C39C /* Demo_productsTests */,
 				17FC92D1200291560001C39C /* Demo_productsUITests */,
@@ -710,6 +712,7 @@
 				17FC92D9200291560001C39C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		17FC92DA200291560001C39C /* Build configuration list for PBXNativeTarget "Demo_productsTests" */ = {
 			isa = XCConfigurationList;
@@ -718,6 +721,7 @@
 				17FC92DC200291560001C39C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		17FC92DD200291560001C39C /* Build configuration list for PBXNativeTarget "Demo_productsUITests" */ = {
 			isa = XCConfigurationList;
@@ -726,6 +730,7 @@
 				17FC92DF200291560001C39C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
